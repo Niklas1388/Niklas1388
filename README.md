@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Niklas1388
-- 👀 I’m interested in 
 - 🌱 I’m currently learning python and sql
 - 💞️ I’m looking to collaborate on spatial ecosystem analysis
 - 📫 How to reach me by mail: n.langner@posteo.net
